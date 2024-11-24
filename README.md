@@ -8,7 +8,7 @@
     * 📁ベストプラクティス - 読み物。Bakinには様々な開発スタイルがあるうち、どのようなスタイルを身に着けるのがいいかの所見を含めた解説集
         * 📄 [＜第１回＞　ワーキング・アローン](./best-practice/working_alone.md)
     * 📁ただの調査報告
-        * 📁 [シーケンス図](./reports/sequence-diagrams)
+        * 🖼 [シーケンス図](./reports/sequence-diagrams/[20241123-1525]main_loop_for_game_objects.png)
         * 📄 [変数の構造](./reports/structure_of_variables.md) - `数値` や `文字列`、 `ローカル` や `配列`、 `イベントスイッチ` などについて
 * ゲーム作品 アンフェアー・コイントス
     * 📁 [開発記録](./unfair-cointoss-development-records/)
