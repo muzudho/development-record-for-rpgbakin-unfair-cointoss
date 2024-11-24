@@ -8,5 +8,6 @@
     * 📁 [ベストプラクティス](./best-practice/) - Bakinには様々な開発スタイルがあるうち、どのようなスタイルを身に着けるのがいいかの所見を含めた解説集
     * ただの調査報告
         * 📁 [シーケンス図](./reports/sequence-diagrams)
+        * 📄 [変数の構造](./reports/structure_of_variables.md) - `数値` や `文字列`、 `ローカル` や `配列`、 `イベントスイッチ` などについて
 * ゲーム作品 アンフェアー・コイントス
     * 📁 [開発記録](./unfair-cointoss-development-records/)
