@@ -3,7 +3,11 @@
 
 ## Ｘ軸上を水平移動
 
-![Ｘ軸上を水平移動](./res/img/202412__bakin__11-1930--768x768-3-horizontal-movement-on-x-axis.png)  
+![Ｘ軸上を水平移動（マウス右ボタンとシフトキー）](./res/img/202412__bakin__11-1930--768x768-3-horizontal-movement-on-x-axis.png)  
+
+![Ｘ軸上を水平移動（マウス右ボタンとオルトキー）](./res/img/202412__bakin__13-0002--768x768-11-horizontal-movement-on-x-axis.png)  
+
+![Ｘ軸上を水平移動（マウス中ボタン）](./res/img/202412__bakin__12-2356--768x768-9-horizontal-movement-on-x-axis.png)  
 
 
 ## Ｙ軸上を水平移動
@@ -13,7 +17,9 @@
 
 ## Ｚ軸上を水平移動
 
-![Ｚ軸上を水平移動](./res/img/202412__bakin__11-2036--768x768-4-horizontal-movement-on-z-axis.png)  
+![Ｚ軸上を水平移動（マウス右ボタンとシフトキー）](./res/img/202412__bakin__11-2036--768x768-4-horizontal-movement-on-z-axis.png)  
+
+![Ｚ軸上を水平移動（マウス中ボタン）](./res/img/202412__bakin__12-2359--768x768-10-horizontal-movement-on-z-axis.png)  
 
 
 ## Ｘ軸を中心に垂直回転
@@ -48,7 +54,7 @@
 のが良さそうに見えるよな。  
 
 
-## 他にもジェスチャーがあるが、機能が被っている
+## 公式の説明
 
 👇　以下参照  
 
