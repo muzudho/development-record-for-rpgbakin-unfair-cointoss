@@ -16,3 +16,4 @@
         * 📄 [マップ・エディターでのマウス・ジェスチャー](./reports/mouse_gesture_on_map_editor.md) - 視点を `垂直上昇` させるにはどうすればいいのかとか
 * ゲーム作品 アンフェアー・コイントス
     * 📁 [開発記録](./unfair-cointoss-development-records/)
+        * 📄 [雑魚戦シーケンス](./unfair-cointoss-development-records/battle-sequence-of-zakosen.md)
