@@ -16,4 +16,11 @@
         * 📄 [マップ・エディターでのマウス・ジェスチャー](./reports/mouse_gesture_on_map_editor.md) - 視点を `垂直上昇` させるにはどうすればいいのかとか
 * ゲーム作品 アンフェアー・コイントス
     * 📁 [開発記録](./unfair-cointoss-development-records/)
-        * 📄 [雑魚戦シーケンス](./unfair-cointoss-development-records/battle-sequence-of-zakosen.md)
+        * 📄 [雑魚出現マップでの戦闘入出シーケンス](./unfair-cointoss-development-records/battle-entry-exit-sequence-on-zakosen-map)
+        * 📄 [ボス戦シーケンス](./unfair-cointoss-development-records/battle-sequence-of-boss.md)
+
+# その他の取組み
+
+![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_sequence_diagram.png)  
+
+👆　見やすいシーケンス図の形式を考案中  
