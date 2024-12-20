@@ -22,6 +22,6 @@
 
 # その他の取組み
 
-![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_sequence_diagram.png)  
+![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_sequence_diagram_5.png)  
 
 👆　見やすいシーケンス図の形式を考案中  
