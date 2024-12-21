@@ -22,7 +22,7 @@
 
 # その他の取組み
 
-![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_of_battle_sequence_diagram_8.png)  
+![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_of_battle_sequence_diagram_9.png)  
 
 👆　見やすいシーケンス図の形式を考案中  
 
