@@ -22,6 +22,10 @@
 
 # その他の取組み
 
-![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_sequence_diagram_5.png)  
+![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_sequence_diagram_6.png)  
 
 👆　見やすいシーケンス図の形式を考案中  
+
+エレクトロンで作れないか？
+
+📖 [最新版で学ぶElectron入門 ウェブ技術でPCアプリを開発しよう](https://ics.media/entry/7298/)  
