@@ -22,10 +22,10 @@
 
 # その他の取組み
 
-![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_of_battle_sequence_diagram_10.png)  
+![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_of_battle_sequence_diagram_11.png)  
 
-👆　見やすいシーケンス図の形式を考案中  
+👆　見やすいシーケンス図の形式を考案中。降りるのは青。車線変更は緑。昇るのは赤。  
 
-エレクトロンで作れないか？
+エレクトロンで作図ソフトを作れないか？  
 
 📖 [最新版で学ぶElectron入門 ウェブ技術でPCアプリを開発しよう](https://ics.media/entry/7298/)  
