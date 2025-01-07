@@ -1,0 +1,60 @@
+{
+    "pillars": [
+        {
+            "id": "BattleMapEventMaster",
+            "header": {
+                "1stIcon": null,
+                "1stText": "戦闘マップ",
+                "2ndIcon": "GameObjectOnMap",
+                "2ndText": "イベントマスター　戦闘マップ"
+            },
+            "cards": {
+                "S": {
+                    "1stIcon": "Start",
+                    "to": "BattleMapEventMaster.Entry"
+                },
+                "Entry": {
+                    "header": {
+                        "1stIcon": "FlagOff",
+                        "1stText": "［♠戦闘入後／出後　＞　戦闘マップに入っている］フラグがＯｆｆのとき",
+                        "2ndIcon": "State",
+                        "2ndText": "♠戦闘入後　＞　戦闘マップに入っている"
+                    },
+                    "rows": [
+                    ]
+                }
+            }
+        },
+        {
+            "id": "EncounterMapEventMaster",
+            "header": {
+                "from" : "BattleMapEventMaster.S",
+                "1stIcon": "CommonEventList",
+                "1stText": "コモンイベント一覧",
+                "2ndIcon": "Folder",
+                "2ndText": "共通イベント／歩行マップ／敵出現マップ／イベントマスター"
+            },
+            "cards": {
+                "InBattleMap": {
+                    "header": {
+                        "1stIcon": "GlobalGameObject",
+                        "1stText": "♠戦闘入後　＞　戦闘マップに入っている",
+                        "2ndIcon": null,
+                        "2ndText": "無条件　1: イベントシート"
+                    },
+                    "rows": [
+                        {
+                            "type": "OnFlag",
+                            "text2": "［■戦闘中　＞　ステート］列挙型値を",
+                            "text3": "［□戦闘　＞　列挙型　＞　戦闘中ステート　＞　_1_戦闘開始の合図をする］にする"
+                        },
+                        {
+                            "type": "OnFlag",
+                            "text2": "［♠戦闘入後／出後　＞　戦闘マップに入っている］フラグをＯｎにする"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
