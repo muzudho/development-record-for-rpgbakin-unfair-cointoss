@@ -20,12 +20,11 @@
         * 📄 [雑魚出現マップでの戦闘入出シーケンス](./unfair-cointoss-development-records/battle-entry-exit-sequence-on-zakosen-map)
         * 📄 [ボス戦シーケンス](./unfair-cointoss-development-records/battle-sequence-of-boss.md)
 
+
 # その他の取組み
 
 ![見やすいシーケンス図の形式を考案中](./unfair-cointoss-development-records/res/example_of_battle_sequence_diagram_12.png)  
 
-👆　見やすいシーケンス図の形式を考案中。降りるのは青。車線変更は緑。昇るのは赤。  
+👆　GitHub の別リポジトリで開発中。  
+📖　[Muzudho > Trellis](https://github.com/muzudho/trellis)  
 
-エレクトロンで作図ソフトを作れないか？  
-
-📖 [最新版で学ぶElectron入門 ウェブ技術でPCアプリを開発しよう](https://ics.media/entry/7298/)  
