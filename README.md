@@ -9,6 +9,7 @@
         * 📄 [＜第１回＞　ワーキング・アローン](./best-practice/working_alone.md)
         * 📖 [＜第２回＞　書いたプログラムが変わってる](./best-practice/the_program_I_put_together_has_changed.md)
         * 📖 [＜第３回＞　フラグ管理の章＜その１＞](./best-practice/structure_of_flag.md)
+        * 📖 [＜第４回＞　RPGBakinは、エントリーモデルというより、リタイアモデルだ](./best-practice/retirement_model_not_entry_model.md)
     * 📁ただの調査報告
         * 🖼 [シーケンス図（推測したもの）](./reports/sequence-diagrams/[20241123-1525]main_loop_for_game_objects.png)
         * 📄 [変数の構造](./reports/structure_of_variables.md) - `数値` や `文字列`、 `ローカル` や `配列`、 `イベントスイッチ` などについて
